@@ -1,2 +1,2 @@
-file
+file conflict2
 test
